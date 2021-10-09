@@ -17,3 +17,6 @@ $username = "user";
 $password = "senha";
 
 $database = "database";
+
+
+extract ckeditor.zip in /adm/ckeditor
